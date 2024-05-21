@@ -1,5 +1,0 @@
-First Assignment will be heregit add Assignments/
-First Assignment will be here
-[master 646a6a4] ADD Assignment Folder
- 1 file changed, 2 insertions(+)
- create mode 100644 Unit_2_C_Programming/1_C_Basics/Assinment.txt
